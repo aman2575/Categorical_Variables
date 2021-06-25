@@ -1,3 +1,3 @@
-# Machine_learning
+# Categorical_Variables
 Notes
 All about Categorical Variable
